@@ -3,7 +3,7 @@ noteE is not just Excellent, an Apple Pencil drawing app built with native penci
 
 ## some thing
 Since I will put this program on the App Store in the future, the note will not show any source code from today onwards
-
+Go to https://github.com/zxss702/noteE/releases/tag/v0.2.b1 to download the ipa file
 ## About noteE
   This is a Chinese program
   Using this program should be very easy for you if you can read Chinese
