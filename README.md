@@ -1,6 +1,9 @@
 # noteE
 noteE is not just Excellent, an Apple Pencil drawing app built with native pencilkit and swiftui
 
+## some thing
+Since I will put this program on the App Store in the future, the note will not show any source code from today onwards
+
 ## About noteE
   This is a Chinese program
   Using this program should be very easy for you if you can read Chinese
